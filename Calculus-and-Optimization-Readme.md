@@ -47,7 +47,7 @@ Review these comprehensive notes to reinforce your grasp :
 
 
 - [**"Harvard Calculus Course Notes "**](https://people.math.harvard.edu/~knill/teaching/math1a_2012/handouts.html)  As suggested by Arjun Suresh (Gate Overflow): Sufficient for GATE
-- [**"Optimization Notes COL774 IIT DELHI"**](https://www.cse.iitd.ac.in/~parags/teaching/col774/review/convex-1.pdf) By Prof. Parag Singla IIT DELHI - COL774 Course
+- [**"Optimization Notes COL774 IIT DELHI"**](Topic_Resources/PDFs/convex-1.pdf) By Prof. Parag Singla IIT DELHI - COL774 Course
 
 
 ---
