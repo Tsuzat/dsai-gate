@@ -26,7 +26,7 @@ Explore these recommended books to enhance your understanding of Probability and
 - [**"Introduction to Probability"**](https://ia803404.us.archive.org/6/items/introduction-to-probability-joseph-k.-blitzstein-jessica-hwang/Introduction%20to%20Probability-Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang.pdf) by Joe Blitzstein and Jessica Hwang - Stat110 course book; 
   An introductory textbook that covers a wide range of probability concepts.
 
-- [**"A FIRST COURSE IN PROBABILITY"**](http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf) by Sheldon Ross
+- [**"A First Course in Probability"**](Topic_Resources/Books/A-First-Course-in-Probability.pdf) by Sheldon Ross
 Most appropriate book for Graduate level and Gate preparation
   
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 

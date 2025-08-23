@@ -16,7 +16,6 @@ MLOPs Roadmap:https://roadmap.sh/mlops
 
 ![MLOps Roadmap](https://github.com/DS-AI-GATE/dsai-gate/blob/main/Data/Interview/MLOPs/mlops_page-0001.jpg)
 
-
 ## <a name="books"></a>Books
 
 Explore these key resources that cover core MLOps principles:
