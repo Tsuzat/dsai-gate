@@ -2,9 +2,7 @@
 
 
 > ## We are still in work in progress phase, Stay tuned !!
-> Looking for solid-contributors checkout : [contributors-guide](https://github.com/DS-AI-GATE/dsai-gate/wiki/CONTRIBUTORS-GUIDE) |
- [registeration-form](https://forms.gle/MrTQdBaPXFhpn1NN9)
-
+> Looking for solid-contributors checkout : [contributors-guide](https://github.com/DS-AI-GATE/dsai-gate/wiki/CONTRIBUTORS-GUIDE)
 
 <!---
 Comments and Notes:
@@ -128,7 +126,6 @@ Calling Data Science & AI folks!
 Join the team as official contributor for DSAI-GATE prep resource. Elevate your expertise by contributing to this repository. \
 Your knowledge or years of industry experience is invaluable. Claim your spot now: Contribute to DSAI-GATE. Let's shape the future of GATE prep together! 💼📚 #DSAI #GATE
 
-link for interested contributor --> [Registeration-form](https://forms.gle/MrTQdBaPXFhpn1NN9) 
 
 
 ### How to Contribute
