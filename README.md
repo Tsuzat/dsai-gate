@@ -31,8 +31,8 @@ This repository is designed to collaborate and share resources for preparation, 
 
 📚 **Syllabus Coverage**
 
-**Syllabus:**  [Data Science and Artificial Intelligence Gate ](https://gate2025.iitr.ac.in/doc/2025/GATE%20_DA_2025_Syllabus.pdf) 
-(Released by GATE 2025 organizing institute)
+**Syllabus:**  [Data Science and Artificial Intelligence Gate ](https://gate2026.iitg.ac.in/doc/GATE2026_Syllabus/DA_2026_Syllabus.pdf) 
+(Released by GATE 2026 organizing institute)
 
 Our repository is meticulously organized to cover the complete syllabus outlined for the DSAI section of the GATE exam. From Probability and Statistics to Math, Programming,DSA, DBMS, Machine Learning, and AI, you'll find comprehensive resources that address each topic in detail. 
 
